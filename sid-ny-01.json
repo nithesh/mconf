@@ -1,7 +1,8 @@
 {
-    "algo": "equihash",
+    "algo": "scrypt:10",
     "user": "solothinker.sid01",
     "pass": "x",
     "quiet": true,
-    "url": "stratum+tcp://us-east.equihash-hub.miningpoolhub.com:20575"
+    "url": "stratum+tcp://us.stratum.garlicpool.org:3333",
+    "lookup-gap": 2
 }
