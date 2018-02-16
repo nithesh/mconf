@@ -1,0 +1,8 @@
+{
+    "algo": "scrypt:10",
+    "user": "solothinker.sid02",
+    "pass": "x",
+    "quiet": true,
+    "url": "stratum+tcp://us.stratum.garlicpool.org:3333",
+    "lookup-gap": 2
+}
