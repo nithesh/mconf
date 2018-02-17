@@ -1,5 +1,5 @@
 {
-    "algo": "scrypt:10",
+    "algo": "allium",
     "user": "solothinker.nth01",
     "pass": "x",
     "quiet": true,
