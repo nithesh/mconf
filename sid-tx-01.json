@@ -1,8 +1,7 @@
 {
-    "algo": "scrypt:10",
-    "user": "solothinker.sid02",
+    "algo": "tribus",
+    "user": "DEp47z3q2B6bceewybNRk7kFxMaWLGfW6C",
     "pass": "x",
     "quiet": true,
-    "url": "stratum+tcp://us.stratum.garlicpool.org:3333",
-    "lookup-gap": 2
+    "url": "stratum+tcp://pool.bsod.pw:2153"
 }
